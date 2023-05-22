@@ -1,0 +1,17 @@
+.movieCard {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.movieCard .flex{
+   width: 300px;
+   margin: 10px 15px; 
+}
+.movieCard .flex img{
+   width: 100%;
+   cursor: pointer;
+}
+.movieCard .flex h4{
+   font-size: 14px;
+   color: blue;
+}
